@@ -1,25 +1,22 @@
-<h1 align="center">Curso de Desenvolvimento de Jogos em Unity</h1>
-<p align="center">Projeto <strong>Jogo de Aventura - Web</strong> desenvolvido durante o curso promovido pela <a href="https://dankicode.com/">Danki Code</a>.</p>
+<h1 align="center">Curso de Programação de Jogos em Unity</h1>
+<p align="center">Projeto <strong>Jogo de Plataforma - Web</strong> desenvolvido durante a o curso promovido pelo <a href="https://cegi.unifesp.br/">CEGI</a> na UNIFESP.
+</p>
 
 ---
 
-## 📚 Sobre a Danki Code
-A <a href="https://dankicode.com/">Danki Code</a> é uma plataforma de ensino dedicada a cursos de tecnologia, com foco em programação, desenvolvimento de jogos e outras habilidades digitais. O objetivo é capacitar alunos com conhecimentos práticos e atualizados para o mercado de trabalho.
+## 📚 Sobre o CEGI: 
 
-## 🎮 Sobre o Curso e o Conteúdo Disponibilizado
-O conteúdo disponibilizado faz parte do meu desenvolvimento no curso, que abrangeu os seguintes tópicos:
-- Introdução à Unity
-- Criação de jogos 2D
-- Movimentação e Física 2D
-- Animação e Interações
-- Colisores e Triggers
-- Desenvolvimento de Inimigos
-- Controle de Câmera (Cinemachine)
-- Implementação de Sons (Audio Source)
-- Interface de Usuário (UI): Botões e Menus
-- Apresentação do Projeto Final
+O <a href="https://cegi.unifesp.br/">CEGI</a> (Centro de Estudos em Games e Internet) é uma iniciativa focada em pesquisa, ensino e extensão. Seu propósito é promover atividades ligadas a jogos digitais, tecnologias interativas, e desenvolvimento de protótipos e interfaces para diversas áreas, como educação, saúde, negócios e entretenimento, além de incentivar o estudo das tecnologias de comunicação na sociedade.
 
-Durante o curso, foram disponibilizados assets, músicas e efeitos sonoros para o desenvolvimento do jogo.
 
-## 📃 Licença
+## 🎮 Sobre o Curso e o Jogo:
+
+O curso teve como conteúdo programático: Introdução à Unity; Introdução a 2D (sprites); Input e Movimentação 2D (física); Animação; Interação com colisores (triggers), disparo de projéteis; Inimigos; Controle de Câmera (Cinemachine) e Sons (Audio Source); UI: Criar botões e menus; Elaboração e apresentação do projeto final.
+
+Para que fosse possível o desenvolvimento do jogo, durante o curso foi disponibilizado os assets, músicas e efeitos sonoros.
+
+
+## 📃 Licença:
+
 Você é livre para usar, copiar, modificar e distribuir este jogo.
+
