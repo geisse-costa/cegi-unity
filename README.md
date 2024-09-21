@@ -13,4 +13,4 @@ O CEGI (Centro de Estudos em Games e Internet) é uma iniciativa focada em pesqu
 
 ## 🎮 Sobre o Jogo:
 
-O curso teve como conteúdo programático: Introdução à Unity; Introdução a 2D (sprites); Input e Movimentação 2D (física); Animação; Interação com colisores (triggers), disparo de projéteis; Inimigos; Controle de Câmera (Cinemachine) e Sons (Audio Source); UI: Criar botões e menus; Elaboração e apresentação do projeto final.- Introdução à Unity; Introdução a 2D (sprites); Input e Movimentação 2D (física); Animação; Interação com colisores (triggers), disparo de projéteis; Inimigos; Controle de Câmera (Cinemachine) e Sons (Audio Source); UI: Criar botões e menus; Elaboração e apresentação do projeto final.
+O curso teve como conteúdo programático: Introdução à Unity; Introdução a 2D (sprites); Input e Movimentação 2D (física); Animação; Interação com colisores (triggers), disparo de projéteis; Inimigos; Controle de Câmera (Cinemachine) e Sons (Audio Source); UI: Criar botões e menus; Elaboração e apresentação do projeto final.
