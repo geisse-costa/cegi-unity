@@ -1,5 +1,3 @@
-# cegi-unity
-
 <h1 align="center">Curso de Programação de Jogos em Unity</h1>
 <p align="center">Projeto <strong>Jogo de Plataforma - Web</strong> desenvolvido durante a o curso promovido pelo <a href="https://cegi.unifesp.br/">CEGI</a> na UNIFESP.
 </p>
